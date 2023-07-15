@@ -1,0 +1,26 @@
+ .header {
+    align-items: flex-start;
+    padding: 20px;
+    background-color: #0C58E6;
+    position: sticky;
+    left: 250px;
+    width: 79%;   
+    border-radius: 0px 0px 10px 10px;
+  }
+  
+  .header h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  .header p {
+    font-size: 16px;
+    margin-bottom: 0;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  
